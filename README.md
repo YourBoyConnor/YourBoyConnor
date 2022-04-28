@@ -12,7 +12,7 @@
 
 <details>
   <summary>
-  <h3>⚙️ GitHub Stats</h3>
+  <h2> ⚙️ GitHub Stats </h2>
   </summary>
 </details>
 
