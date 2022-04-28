@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Connor!
 
-<!--
-**YourBoyConnor/YourBoyConnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Computer Science @ University of Maryland, College Park.
+- 🤔 I'm interesting in Software Development, Machine Learning/AI, Cybersecurity, Web Development, and others I can't think of right now.
+- ✅ I currently work with these languages and tools:
 
-Here are some ideas to get you started:
+[![My Languages and Tools](https://skills.thijs.gg/icons?i=java,cpp,py,html,css,js,git,unity)](https://skills.thijs.gg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ℹ️ I want to learn more about these:
+
+[![Things I Want to Learn](https://skills.thijs.gg/icons?i=c,nodejs,react,swift,lua,mysql,mongodb)](https://skills.thijs.gg)
+
+- 📫 You can reach me at: connor.pymm@gmail.com
