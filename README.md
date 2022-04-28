@@ -13,7 +13,21 @@
 <details>
   <summary>
   <h3>⚙️ GitHub Stats</h3>
-  </summary>
+  </summary> 
+  
+  ![YourBoyConnor's GitHub Stats](https://github-readme-stats.vercel.app/?username=YourBoyConnor&show_icons=true&theme=dark)
+</details>
+
+<details>
+  <summary>
+  <h3>🎵 Now</h3>
+  </summary> 
+</details>
+
+<details>
+  <summary>
+  <h3>⚙️ GitHub Stats</h3>
+  </summary> 
 </details>
 
 -----
