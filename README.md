@@ -36,4 +36,7 @@
   <summary><h3>🔗 Links and Socials</h3></summary> 
   </br>
   
+  <a href="https://linkedin.com/in/connorpymm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connorpymm" height="30" width="40" /></a>
+<a href="https://instagram.com/honestlyitsconnor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honestlyitsconnor" height="30" width="40" /></a>
+  
 </details>
