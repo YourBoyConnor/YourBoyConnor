@@ -16,6 +16,7 @@
   
   
   ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBoyConnor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
