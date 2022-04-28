@@ -16,21 +16,21 @@
   
   
   ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBoyConnor)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
 <details>
-  <summary><h3>🎵 Now Playing</h3></summary> 
+  <summary><h3>🎧 Now Playing</h3></summary> 
+  </br>
   
-  <br></br>
-  ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  
+  
   
 </details>
 
 <details>
   <summary><h3>🔗 Links and Socials</h3></summary> 
-  
-  <br></br>
-  ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  </br>
   
 </details>
