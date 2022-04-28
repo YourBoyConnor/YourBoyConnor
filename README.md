@@ -12,7 +12,6 @@
 
 <details>
   <summary><h3>⚙️ GitHub Stats</h3></summary> 
-  </br>
   
   
   ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
@@ -27,7 +26,7 @@
   <summary><h3>🎧 Now Playing</h3></summary> 
   
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4ciyp9lvgd8i7jjk0t5x0xg1r&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4ciyp9lvgd8i7jjk0t5x0xg1r&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4ciyp9lvgd8i7jjk0t5x0xg1r&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4ciyp9lvgd8i7jjk0t5x0xg1r&redirect=true)
   
 </details>
 
