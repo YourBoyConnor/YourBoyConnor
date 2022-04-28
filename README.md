@@ -13,7 +13,7 @@
 <details>
   <summary><h2>⚙️ GitHub Stats</h2></summary> 
   
-  &nbsp;
+  <br></br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
   
 </details>
