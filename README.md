@@ -11,7 +11,7 @@
 [![Things I Want to Learn](https://skills.thijs.gg/icons?i=c,swift,mongodb,nodejs,react,lua,mysql)](https://skills.thijs.gg)
 
 <details>
-  <summary>⚙️ GitHub Stats </summary> 
+  <summary><h2>⚙️ GitHub Stats</h2></summary> 
   
   &nbsp;
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
