@@ -10,4 +10,10 @@
 
 [![Things I Want to Learn](https://skills.thijs.gg/icons?i=c,swift,mongodb,nodejs,react,lua,mysql)](https://skills.thijs.gg)
 
-- 📫 You can reach me at: connor.pymm@gmail.com
+<details>
+  <summary>
+  ⚙️ GitHub Stats
+  </summary>
+</details>
+
+-----
