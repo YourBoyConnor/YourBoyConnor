@@ -19,7 +19,7 @@
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBoyConnor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=YourBoyConnor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=YourBoyConnor&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
 
