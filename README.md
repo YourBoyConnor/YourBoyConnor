@@ -36,5 +36,4 @@
   <a href="https://www.instagram.com/honestlyitsconnor" target="blank"><img align="center" src="https://img.shields.io/badge/Honestlyitsconnor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/connor-pymm-89ba43197/" target="blank"><img align="center" src="https://img.shields.io/badge/Connor Pymm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:connor.pymm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/connor.pymm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.github.com/YourBoyConnor" target="blank"><img align="center" src="https://img.shields.io/badge/YourBoyConnor-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
