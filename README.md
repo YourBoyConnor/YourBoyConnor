@@ -1,4 +1,4 @@
-# Hi 👋, I'm Connor!
+## Hi 👋, I'm Connor!
 
 - 🌱 I’m currently learning Computer Science @ University of Maryland, College Park.
 - 🤔 I'm interested in Software Development, Machine Learning/AI, Cybersecurity, Web Development, and others I can't think of right now.
