@@ -12,7 +12,7 @@
 
 <details>
   <summary>
-  ⚙️ GitHub Stats
+  ## ⚙️ GitHub Stats
   </summary>
 </details>
 
