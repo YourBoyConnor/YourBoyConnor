@@ -4,7 +4,7 @@
 - 🤔 I'm interesting in Software Development, Machine Learning/AI, Cybersecurity, Web Development, and others I can't think of right now.
 - ✅ I currently work with these languages and tools:
 
-[![My Languages and Tools](https://skills.thijs.gg/icons?i=cpp,css,html,git,js,java,py,unity)](https://skills.thijs.gg)
+[![My Languages and Tools](https://skills.thijs.gg/icons?i=java,py,cpp,html,css,js,git,unity)](https://skills.thijs.gg)
 
 - ℹ️ I want to learn more about these:
 
