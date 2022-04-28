@@ -11,9 +11,25 @@
 [![Things I Want to Learn](https://skills.thijs.gg/icons?i=c,swift,mongodb,nodejs,react,lua,mysql)](https://skills.thijs.gg)
 
 <details>
-  <summary><h2>⚙️ GitHub Stats</h2></summary> 
+  <summary><h3>⚙️ GitHub Stats</h3></summary> 
   
   <br></br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  
+</details>
+
+<details>
+  <summary><h3>🎵 Now Playing</h3></summary> 
+  
+  <br></br>
+  ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
+  
+</details>
+
+<details>
+  <summary><h3>🔗 Links and Socials</h3></summary> 
+  
+  <br></br>
+  ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
   
 </details>
