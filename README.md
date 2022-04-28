@@ -12,8 +12,9 @@
 
 <details>
   <summary><h3>⚙️ GitHub Stats</h3></summary> 
-  
   </br>
+  
+  
   ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBoyConnor&show_icons=true&theme=dark)
   
 </details>
