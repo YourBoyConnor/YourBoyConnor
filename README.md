@@ -14,20 +14,6 @@
   <summary>⚙️ GitHub Stats </summary> 
   
   
-  ![YourBoyConnor's GitHub Stats](https://github-readme-stats.vercel.app/?username=YourBoyConnor&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
 </details>
-
-<details>
-  <summary>
-  <h2>🎵 Playing Now</h2>
-  </summary> 
-</details>
-
-<details>
-  <summary>
-  <h3>⚙️ GitHub Stats</h3>
-  </summary> 
-</details>
-
------
