@@ -15,6 +15,7 @@
   <h3>⚙️ GitHub Stats</h3>
   </summary> 
   
+  
   ![YourBoyConnor's GitHub Stats](https://github-readme-stats.vercel.app/?username=YourBoyConnor&show_icons=true&theme=dark)
 </details>
 
