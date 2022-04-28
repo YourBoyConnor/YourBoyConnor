@@ -11,10 +11,7 @@
 [![Things I Want to Learn](https://skills.thijs.gg/icons?i=c,swift,mongodb,nodejs,react,lua,mysql)](https://skills.thijs.gg)
 
 <details>
-  <summary>
-  ⚙️ GitHub Stats
-  ===================
-  </summary> 
+  <summary>⚙️ GitHub Stats </summary> 
   
   
   ![YourBoyConnor's GitHub Stats](https://github-readme-stats.vercel.app/?username=YourBoyConnor&show_icons=true&theme=dark)
