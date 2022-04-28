@@ -12,16 +12,18 @@
 
 <details>
   <summary>
-  <h3>⚙️ GitHub Stats</h3>
+  ⚙️ GitHub Stats
+  ===================
   </summary> 
   
   
   ![YourBoyConnor's GitHub Stats](https://github-readme-stats.vercel.app/?username=YourBoyConnor&show_icons=true&theme=dark)
+  
 </details>
 
 <details>
   <summary>
-  <h3>🎵 Now</h3>
+  <h2>🎵 Playing Now</h2>
   </summary> 
 </details>
 
