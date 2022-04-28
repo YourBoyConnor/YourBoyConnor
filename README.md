@@ -11,7 +11,7 @@
 [![Things I Want to Learn](https://skills.thijs.gg/icons?i=c,swift,mongodb,nodejs,react,lua,mysql)](https://skills.thijs.gg)
 
 <details>
-  <summary><h3>⚙️ GitHub Stats</h3></summary> 
+  <summary><h3>Click: ⚙️ GitHub Stats</h3></summary> 
   </br>
   
   
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary><h3>🎧 Now Playing</h3></summary> 
+  <summary><h3>Click: 🎧 Now Playing</h3></summary> 
   
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4ciyp9lvgd8i7jjk0t5x0xg1r&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4ciyp9lvgd8i7jjk0t5x0xg1r&redirect=true)
