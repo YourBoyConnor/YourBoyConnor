@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Connor!
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>, I'm Connor!
 
 - 🌱 I’m currently learning Computer Science @ University of Maryland, College Park.
 - 🤔 I'm interested in Software Development, Machine Learning/AI, Cybersecurity, Web Development, and others I can't think of right now.
