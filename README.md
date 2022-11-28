@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>, I'm Connor!
 
 - 🌱 I’m currently learning Computer Science @ University of Maryland, College Park.
-- 🤔 I'm interested in Software Development, Machine Learning/AI, Cybersecurity, Web Development, and others things I can't think of right now.
+- 🤔 I'm interested in Software Development, Machine Learning/AI, Cybersecurity, Web Development, etc.
 - ✅ I currently work with these languages and tools:
 
 [![My Languages and Tools](https://skills.thijs.gg/icons?i=java,py,cpp,c,html,css,js,ts,git,angular,postgres,unity)](https://skills.thijs.gg)
