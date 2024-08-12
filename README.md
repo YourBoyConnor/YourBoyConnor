@@ -3,13 +3,12 @@
 - 🌱 I recently graduated with my degree in Computer Science from the University of Maryland, College Park.
 - 🏢 I currently work as a Consulting Engineer @ [August Schell](https://augustschell.com/).
 - 🤔 I'm interested in Software Development, Machine Learning/AI, Cybersecurity, Web Development, etc.
-- ✅ I currently work with these languages and tools:
 
-[![My Languages and Tools](https://skillicons.dev/icons?i=java,py,cpp,c,html,css,js,ts,git,angular,postgres,unity)](https://skillicons.dev)
+- ✅ I have experience with these languages and tools:
+  - [![My Languages and Tools](https://skillicons.dev/icons?i=java,py,cpp,c,html,css,js,ts,git,angular,postgres,unity)](https://skillicons.dev)
 
 - ℹ️ I want to learn more about these:
-
-[![Things I Want to Learn](https://skillicons.dev/icons?i=swift,mongodb,nodejs,react,lua,docker,kubernetes)](https://skillicons.dev)
+  - [![Things I Want to Learn](https://skillicons.dev/icons?i=swift,mongodb,nodejs,react,lua,docker,kubernetes)](https://skillicons.dev)
 
 <details>
   <summary><h3>Click for ⚙️ GitHub Stats</h3></summary> 
