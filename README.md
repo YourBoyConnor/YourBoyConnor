@@ -1,6 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>, I'm Connor!
 
-- 🌱 I’m currently learning Computer Science @ University of Maryland, College Park.
+- 🌱 I recently graduated with my degree in Computer Science from the University of Maryland, College Park.
+- 🏢 I currently work as a Consulting Engineer @ [August Schell](https://augustschell.com/).
 - 🤔 I'm interested in Software Development, Machine Learning/AI, Cybersecurity, Web Development, etc.
 - ✅ I currently work with these languages and tools:
 
